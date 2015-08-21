@@ -1,4 +1,4 @@
-fabgit - Git showed fabulous!!
+fabgit - Git shown fabulous!!
 =======================================
 
 Package `fabgit` was inspired by [erikaheidi/fabgit](https://github.com/erikaheidi/fabgit).
