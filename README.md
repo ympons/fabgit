@@ -1,23 +1,10 @@
+[![Build Status](https://travis-ci.org/ympons/fabgit.png?branch=master)](https://travis-ci.org/ympons/fabgit)
+
 fabgit - Git shown fabulous!!
 =======================================
 
-Package `fabgit` was inspired by [erikaheidi/fabgit](https://github.com/erikaheidi/fabgit).
+<strong>fabgit</strong> uses the sexy [go-fab](https://github.com/ympons/go-fab) library and it was inspired by [erikaheidi/fabgit](https://github.com/erikaheidi/fabgit).
 
-# Status
-
-[![Build Status](https://travis-ci.org/ympons/go-fabgit.png?branch=master)](https://travis-ci.org/ympons/go-fabgit)
-
-# Installation
-
-```
-go clone https://github.com/ympons/go-fabgit.git; go get; go build
-```
-
-# Documentation
-
-See [GoDoc](http://godoc.org/github.com/ympons/go-fabgit) or [Go Walker](http://gowalker.org/github.com/ympons/go-fabgit) for automatically generated documentation.
-
-# Example
-
-```
-```
+<center>
+    ![screenshots](fabgit.png)
+</center>
