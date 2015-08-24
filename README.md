@@ -3,7 +3,7 @@
 fabgit - Git shown fabulous!!
 =======================================
 
-<strong>fabgit</strong> uses the sexy [go-fab](https://github.com/ympons/go-fab) library, and it was inspired by [erikaheidi/fabgit](https://github.com/erikaheidi/fabgit).
+<strong>fabgit</strong> uses the great [go-fab](https://github.com/ympons/go-fab) library, and it was inspired by [erikaheidi/fabgit](https://github.com/erikaheidi/fabgit).
 
 <center>
     ![screenshots](fabgit.png)
